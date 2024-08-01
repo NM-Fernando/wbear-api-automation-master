@@ -1,0 +1,7 @@
+**/allure-results/*
+**/allure-reports/*
+**/node_modules/*
+**/cypress/reports/*
+**/cypress/videos/*
+**/.DS_Store
+**/cypress/screenshots/*
